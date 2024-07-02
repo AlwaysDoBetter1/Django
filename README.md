@@ -6,8 +6,8 @@ Version 0002
 
 
 Version 0001
-Django project
 Create .models for site content and its structure is chosen 
+
 A list of views has been created on the main page 
 Built a 'category' structure using django mptt
 Added detail of view for every posts 
