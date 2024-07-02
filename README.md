@@ -1,6 +1,7 @@
 # Django
 Version 0002
- Filled the website with content and some layout fixes 
+
+Filled the website with content and some layout fixes 
  
  Added Memcashe for memory cache 
  
@@ -8,6 +9,7 @@ Version 0002
 
 -----------------
 Version 0001
+
 Create .models for site content and its structure is chosen 
 
 A list of views has been created on the main page 
