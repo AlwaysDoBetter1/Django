@@ -6,7 +6,7 @@ Version 0002
  
  Added login confirmation by sending a validation message
 
-
+-----------------
 Version 0001
 Create .models for site content and its structure is chosen 
 
