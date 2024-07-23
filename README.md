@@ -3,7 +3,7 @@ Version 0002
 
 Filled the website with content and some layout fixes 
  
- Added Memcashe for memory cache 
+ Added Memcashe
  
  Added login confirmation by sending a validation message
 
